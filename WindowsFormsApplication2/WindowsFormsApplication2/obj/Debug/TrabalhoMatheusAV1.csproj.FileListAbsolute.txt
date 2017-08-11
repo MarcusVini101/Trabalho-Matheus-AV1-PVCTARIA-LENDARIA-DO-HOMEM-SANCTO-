@@ -1,0 +1,3 @@
+C:\Users\Marcus.Farias\Desktop\GitHub\Trabalho-Matheus-AV1-PVCTARIA-LENDARIA-DO-HOMEM-SANCTO-\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Marcus.Farias\Desktop\GitHub\Trabalho-Matheus-AV1-PVCTARIA-LENDARIA-DO-HOMEM-SANCTO-\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Marcus.Farias\Desktop\GitHub\Trabalho-Matheus-AV1-PVCTARIA-LENDARIA-DO-HOMEM-SANCTO-\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
